@@ -1,6 +1,6 @@
 # Bank-Statement-Extraction
 
-## Applying machine learning techniques to extract the given entities from Savings Bank statements documents.
+## Using Yolov5 to extract the given entities from Savings Bank statements documents.
 
 ## Fields to be Extracted:
 
